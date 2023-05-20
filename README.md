@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Shubham Shinde</h1>
+<h3 align="left">I’m a Front-End Developer who has passion for building clean web applications with intuitive functionality. I love exploring and learning new tech stack.</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "It's never late to get started 🎯❤️!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshubhamshinde&label=Profile%20views&color=0e75b6&style=flat" alt="itsshubhamshinde" /> </p>
 
@@ -28,3 +32,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshubhamshinde&show_icons=true&locale=en" alt="itsshubhamshinde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshubhamshinde&" alt="itsshubhamshinde" /></p>
+
+
+
+
+
+ 
+
+ <h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{itsShubhamShinde}/count.svg">
+  
+ ![VisitorCount](https://profile-counter.glitch.me/{itsShubhamShinde}/count.svg)  
+
+</a>
+  
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+Credit: [Shubham Shinde](https://github.com/itsShubhamShinde)
