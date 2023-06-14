@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **itsshubhamks@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1zyCPNYu02wROwPHI6frOpQSs3RiFnyprTiuest2mMiQ/edit?usp=sharing](https://docs.google.com/document/d/1Os9dMsDsPwv00VEvTph6oyWNXstTHzHYKdav1Oeq8O8/edit?usp=sharing)](https://docs.google.com/document/d/1zyCPNYu02wROwPHI6frOpQSs3RiFnyprTiuest2mMiQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Os9dMsDsPwv00VEvTph6oyWNXstTHzHYKdav1Oeq8O8/edit?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
