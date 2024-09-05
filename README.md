@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshubhamshinde&label=Profile%20views&color=0e75b6&style=flat" alt="itsshubhamshinde" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and Redux Toolkit.**
+- 🌱 I’m currently learning **ReactJS and Angular-18.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsShubhamShinde](https://github.com/itsShubhamShinde)
 
-- 💬 Ask me about **ReactJS, Redux, JavaScript, HTML, CSS.**
+- 💬 Ask me about **ReactJS, Redux, Angular, JavaScript, HTML, CSS.**
 
 - 📫 How to reach me **itsshubhamks@gmail.com**
 
