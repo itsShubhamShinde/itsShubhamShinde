@@ -1,77 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Shubham Shinde</h1>
-<h3 align="center">An enthusiastic Java Full Stack Developer who loves turning ideas into functional, user-friendly web applications. With hands-on experience in "Java, Spring Boot, React.js, and Angular", I continuously strive to learn, grow, and build high-quality software with a positive and problem-solving mindset.
+<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
+
+<h3 align="center">
+Java Full Stack Developer | Java • Spring Boot • React • Angular
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"/> 
-  <b><i>"The only way to do great work is to love what you do." 💻✨</i></b> 
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60"/>
+An enthusiastic Java Full Stack Developer passionate about building clean, scalable, and user-friendly web applications.
+I enjoy transforming ideas into real-world solutions using modern technologies, while continuously learning and improving my craft.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsshubhamshinde&label=Profile%20views&color=0e75b6&style=flat" alt="itsshubhamshinde" />
-</p>
-
-- 🌱 Currently enhancing my skills in **Java, Spring Boot, React.js.**  
-- 👨‍💻 Explore all my projects on **[GitHub](https://github.com/itsShubhamShinde)**  
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, JavaScript, HTML5, CSS3, Bootstrap**  
-- 📫 Reach me at **itsshubhamks@gmail.com**  
-- 📄 View my professional experience **[Resume](https://docs.google.com/document/d/1Os9dMsDsPwv00VEvTph6oyWNXstTHzHYKdav1Oeq8O8/edit?usp=sharing)**  
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/itsshubhamshinde" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham shinde" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@itsshubhamks" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@itsshubhamks" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/itsshubhamks" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsshubhamks" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://v17.angular.io/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshubhamshinde&show_icons=true&locale=en&layout=compact" alt="itsshubhamshinde" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshubhamshinde&show_icons=true&locale=en" alt="itsshubhamshinde" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshubhamshinde&" alt="itsshubhamshinde" /></p> -->
-
-<!-- <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{itsShubhamShinde}/count.svg">
-  
- ![VisitorCount](https://profile-counter.glitch.me/{itsShubhamShinde}/count.svg)  
-
-</a> -->
-  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"/> 
+  <b><i>Clean code, continuous learning, and meaningful solutions define my work</i></b>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"/>
 </p>
 
-Credit: [Shubham Shinde](https://github.com/itsShubhamShinde)
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=itsshubhamshinde&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+### 👨‍💻 About Me
+
+- 🌱 Currently strengthening my expertise in **Java, Spring Boot, and React.js**
+- 👨‍💻 Check out my work on **[GitHub](https://github.com/itsShubhamShinde)**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, JavaScript, HTML5, CSS3, Bootstrap**
+- 📫 Reach me at **itsshubhamks@gmail.com**
+- 📄 View my professional journey **[Resume](https://docs.google.com/document/d/1Os9dMsDsPwv00VEvTph6oyWNXstTHzHYKdav1Oeq8O8/edit?usp=sharing)**
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/itsshubhamshinde" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@itsshubhamks" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/itsshubhamks" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="footer" />
+</p>
+
+<p align="center">
+  © Shubham Shinde
+</p>
