@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shubham Shinde</h1>
-<h3 align="center">A passionate Front-End Developer who loves crafting clean, user-friendly web applications. I enjoy exploring new technologies and constantly improving my skills.</h3>
+<h3 align="center">An enthusiastic Java Full Stack Developer who loves turning ideas into functional, user-friendly web applications. With hands-on experience in "Java, Spring Boot, React.js, and Angular", I continuously strive to learn, grow, and build high-quality software with a positive and problem-solving mindset.
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"/> 
@@ -11,11 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=itsshubhamshinde&label=Profile%20views&color=0e75b6&style=flat" alt="itsshubhamshinde" />
 </p>
 
-- 🌱 I’m currently learning **ReactJS and Angular-18.**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/itsShubhamShinde)
-- 💬 Ask me about **ReactJS, Redux, Angular, JavaScript, HTML, CSS.**
-- 📫 Reach me at **itsshubhamks@gmail.com**
-- 📄 Check out my experiences [My Resume](https://docs.google.com/document/d/1Os9dMsDsPwv00VEvTph6oyWNXstTHzHYKdav1Oeq8O8/edit?usp=sharing)
+- 🌱 Currently enhancing my skills in **Java, Spring Boot, React.js.**  
+- 👨‍💻 Explore all my projects on **[GitHub](https://github.com/itsShubhamShinde)**  
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, JavaScript, HTML5, CSS3, Bootstrap**  
+- 📫 Reach me at **itsshubhamks@gmail.com**  
+- 📄 View my professional experience **[Resume](https://docs.google.com/document/d/1Os9dMsDsPwv00VEvTph6oyWNXstTHzHYKdav1Oeq8O8/edit?usp=sharing)**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,18 +57,18 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshubhamshinde&show_icons=true&locale=en&layout=compact" alt="itsshubhamshinde" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshubhamshinde&show_icons=true&locale=en&layout=compact" alt="itsshubhamshinde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshubhamshinde&show_icons=true&locale=en" alt="itsshubhamshinde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshubhamshinde&" alt="itsshubhamshinde" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshubhamshinde&" alt="itsshubhamshinde" /></p> -->
 
-<h3 align="center">Visitor Count</h3>
+<!-- <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{itsShubhamShinde}/count.svg">
   
  ![VisitorCount](https://profile-counter.glitch.me/{itsShubhamShinde}/count.svg)  
 
-</a>
+</a> -->
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
